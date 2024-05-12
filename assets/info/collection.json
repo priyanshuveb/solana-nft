@@ -1,0 +1,22 @@
+{
+    "name": "Seasonal fruits",
+    "symbol": "FRUIT",
+    "description": "A collection of beautiful Seasonal fruits",
+    "image": "URI pointing to the collection image",
+    "attributes": [ 
+      {
+        "trait_type": "Sweet",
+        "value": "10"
+      },
+      {
+        "trait_type": "Color",
+        "value": "7"
+      }
+    ],
+    "properties": {}, // Optional object for additional collection properties
+    "collection": {
+      "name": "Seasonal fruits",
+      "verified": false
+    }
+  }
+  
