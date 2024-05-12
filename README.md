@@ -1,2 +1,2 @@
 # solana-nft
-A basic nft minting contract with guards
+A simple candy machine with guards
