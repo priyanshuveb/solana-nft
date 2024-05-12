@@ -2,7 +2,7 @@
     "name": "Seasonal fruits",
     "symbol": "FRUIT",
     "description": "A collection of beautiful Seasonal fruits",
-    "image": "URI pointing to the collection image",
+    "image": "https://github.com/priyanshuveb/solana-nft/blob/main/assets/images/collection.jpg",
     "attributes": [ 
       {
         "trait_type": "Sweet",
@@ -13,7 +13,6 @@
         "value": "7"
       }
     ],
-    "properties": {}, // Optional object for additional collection properties
     "collection": {
       "name": "Seasonal fruits",
       "verified": false
