@@ -23,10 +23,10 @@ async function main() {
     const tx1 = await updateV1(umi, {
         mint,
         authority: myKeypairSigner,
-        data: { ...initialMetadata, name: "No more fruits", symbol: "XYXY"}
+        data: { ...initialMetadata, name: "fruits again", symbol: "FRUITS"}
     }).sendAndConfirm(umi)
 
-    console.log('collection nft updated successfully');
+    console.log('collection nft updated successfully!');
     
 }
 

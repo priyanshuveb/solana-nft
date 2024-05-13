@@ -24,7 +24,7 @@ async function main() {
     
     const tx = await createNft(umi, {
       mint: collectionMint, // this is the address at which the collection nft program will be deployed
-      authority: collectionUpdateAuthority,
+      authority: collectionUpdateAuthority, // could directly use umi.identity
       name: 'Seasonal fruits',
       symbol: 'FRUITS',
       uri: 'https://raw.githubusercontent.com/priyanshuveb/solana-nft/main/assets/info/collection.json',
@@ -33,7 +33,7 @@ async function main() {
       isMutable: true,
     }).sendAndConfirm(umi)
 
-    console.log('Collection NFT created successfully!')
+    console.log('collection nft created successfully!')
     
     
 }
