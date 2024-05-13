@@ -2,12 +2,12 @@
     "name": "Seasonal fruits",
     "symbol": "FRUIT",
     "description": "A collection of beautiful Seasonal fruits",
-    "image": "https://lqdcxilryoqnubpwuca2d6tubexiftxq7khcmjr777jjpkfqtf2a.arweave.net/XAYroXHDoNoF9qCBofp0CS6CzvD6jiYmP__Sl6iwmXQ",
+    "image": "https://github.com/priyanshuveb/solana-nft/blob/main/assets/images/collection.jpg?raw=true",
     "properties": {
         "files": {
             "0": {
                 "type": "image/jpg",
-                "uri": "https://lqdcxilryoqnubpwuca2d6tubexiftxq7khcmjr777jjpkfqtf2a.arweave.net/XAYroXHDoNoF9qCBofp0CS6CzvD6jiYmP__Sl6iwmXQ"
+                "uri": "https://github.com/priyanshuveb/solana-nft/blob/main/assets/images/collection.jpg?raw=true"
 
             }
         },
